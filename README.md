@@ -1,4 +1,4 @@
-# myproject
+# Node Sprint Client
 
 > A Vue.js project
 
